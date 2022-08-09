@@ -1,3 +1,11 @@
+
+/***********************************
+*Autor: Carlos Andres Rojas Rocha
+*Primer tarea de hpc
+*fecha:10/8/2022
+* Mostrar el resultado del siguiente programa
+***********************************/
+
 #include <stdio.h>
 int main()
 {
