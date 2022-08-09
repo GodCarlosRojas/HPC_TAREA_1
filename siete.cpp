@@ -1,3 +1,10 @@
+/***********************************
+*Autor: Carlos Andres Rojas Rocha
+*Primer tarea de hpc
+*fecha:10/8/2022
+*Programa para calcular sumatorio de una funcion
+***********************************/
+
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
