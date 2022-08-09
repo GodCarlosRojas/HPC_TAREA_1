@@ -1,3 +1,11 @@
+
+/***********************************
+*Autor: Carlos Andres Rojas Rocha
+*Primer tarea de hpc
+*fecha:10/8/2022
+*Programa que calcula el numero de tarot 
+***********************************/
+
 #include <stdio.h>
 #include <iostream>
 
