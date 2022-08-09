@@ -1,3 +1,10 @@
+/***********************************
+*Autor: Carlos Andres Rojas Rocha
+*Primer tarea de hpc
+*fecha:10/8/2022
+*Programa Peaje    
+***********************************/
+
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
